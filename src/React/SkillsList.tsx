@@ -16,16 +16,20 @@ const SkillsList = () => {
   const [openItem, setOpenItem] = useState<string | null>(null);
 
   const skills = {
-    'Web Development': [
+    'Developpeur Symfony': [
       'Single Page Applications (SPAs)',
       'Landing pages and business websites',
       'Portfolio websites',
     ],
-    'Mobile Development': [
+    'Developpeur React': [
       'Mobile-friendly web apps',
       'React Native mobile apps'
     ],
-    'UI/UX Design & Prototyping': [
+    'Responsive design': [
+      'Mobile-friendly web apps',
+      'React Native mobile apps'
+    ],
+    'UI/UX Maquettage': [
       'UI design with Figma & Canva',
       'UX research & improvements',
       'Prototyping for websites & mobile apps',
