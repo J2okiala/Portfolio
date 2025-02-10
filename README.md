@@ -1,9 +1,6 @@
 # Portfolio
 Développé avec passion en écoutant _Hurry Up Tomorrow de The Weeknd_. Terminé en 3 jours seulement.
 
-[![Deploy Status](https://img.shields.io/badge/Deploy-Vercel-black?style=flat&logo=vercel)]  
-
----
 lien du site en ligne: https://portfolio-main-71djptdzd-j2okialas-projects.vercel.app
 
 ## **Stack**  
@@ -12,8 +9,6 @@ lien du site en ligne: https://portfolio-main-71djptdzd-j2okialas-projects.verce
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-### **Tools**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
+
 
 
