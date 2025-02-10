@@ -4,7 +4,7 @@ Developed with passion while listening to _Hurry Up Tomorrow by The Weeknd_. Com
 [![Deploy Status](https://img.shields.io/badge/Deploy-Vercel-black?style=flat&logo=vercel)](tu-url-deploy)  
 
 ---
-Demo: https://oscarhernandez.vercel.app/
+Demo: https://mettreenligne.vercel.app/
 
 ## **Stack**  
 ### **Frontend**  
@@ -27,16 +27,3 @@ src/
 └── pages/
 ```
 
-## **Local configuration** 
-1. Clone the repo:  
-```
-git clone https://github.com/gothsec/portfolio
-```
-2. Install dependencies:
-```  
-npm install
-```
-3. Start the develpoment server:
-```  
-npm run dev
-```
