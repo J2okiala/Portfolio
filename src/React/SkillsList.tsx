@@ -17,22 +17,35 @@ const SkillsList = () => {
 
   const skills = {
     'Developpeur Symfony': [
-      'Single Page Applications (SPAs)',
-      'Landing pages and business websites',
-      'Portfolio websites',
+      'Gestion des formulaires et validations côté client et serveur (symfony form) ',
+      'Intégration de templates et utilisation de Twig ',
+      'Architecture MVC(Modèle-Vue-Contrôleur)',
+      'Création et gestion de pages dynamiques'
     ],
     'Developpeur React': [
-      'Mobile-friendly web apps',
-      'React Native mobile apps'
+      'Single Page Applications (SPAs)',
+      'Portfolio websites',
+      'React-router',
     ],
     'Responsive design': [
-      'Mobile-friendly web apps',
-      'React Native mobile apps'
+      'Version Desktop',
+      'Version Tablette',
+      'Version Mobile'
     ],
-    'UI/UX Maquettage': [
-      'UI design with Figma & Canva',
-      'UX research & improvements',
-      'Prototyping for websites & mobile apps',
+    'Developpeur Backend': [
+      'Mysql base de donnée relationnel',
+      'MongoDB base de donnée non relationnel',
+      'Maitrise Xampp',
+      'Maitrise PhpMyAdmin',
+      'Maitrise MongoDB Compass et Atlas'
+    ],
+    'Maquettes et Wireframes': [
+      'Maquetter des interfaces utilisateur web et mobile',
+      'Maitrise de Figma',
+    ],
+    'Gestion de projet': [
+      'Methode Agile',
+      "Maitrise de Trello pour planifier chaque etape d'un projet"
     ]
   };
 
