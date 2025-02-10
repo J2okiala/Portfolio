@@ -1,7 +1,7 @@
 # Portfolio
 Développé avec passion en écoutant _Hurry Up Tomorrow de The Weeknd_. Terminé en 3 jours seulement.
-![image](https://github.com/user-attachments/assets/c6c5a107-0eaf-42c2-b8ef-27422d676799)
-[![Deploy Status](https://img.shields.io/badge/Deploy-Vercel-black?style=flat&logo=vercel)](tu-url-deploy)  
+
+[![Deploy Status](https://img.shields.io/badge/Deploy-Vercel-black?style=flat&logo=vercel)]  
 
 ---
 lien du site en ligne: https://portfolio-main-71djptdzd-j2okialas-projects.vercel.app
